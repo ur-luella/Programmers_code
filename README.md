@@ -5,3 +5,4 @@
 | 문제 | 풀이 |
 | -------------| -----:|
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)| [풀이]()|
+|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)| [풀이](https://github.com/ur-luella/Programmers_code/blob/master/모의고사.py)
